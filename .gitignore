@@ -1,0 +1,14 @@
+# Внутрішній двигун (Engine)
+core/
+python_engine.zip
+get-pip.py
+
+# Завантажені проекти
+projects/
+temp_project.zip
+
+# Python сміття
+__pycache__/
+*.pyc
+.venv/
+venv/
